@@ -1,0 +1,1 @@
+Azure Functions used at [えいがさがし（β版 ）](https://eiga-sagashi.vercel.app).
